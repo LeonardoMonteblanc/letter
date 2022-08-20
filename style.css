@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
     * {
-    background-image: url('back.jpg') --repeat;
+    background-image: url('./back.jpg') --repeat;
 }
 
 .content {

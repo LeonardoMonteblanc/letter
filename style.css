@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+    * {
+    background-image: url('back.jpg') --repeat;
+}
+
+.content {
+    margin: 0% 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+.header {    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    text-indent: 2rem;}
+
+.texto {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    text-indent: 2rem;
+}
